@@ -5,3 +5,8 @@
 
 .vscode/launch.json
 Cargo.lock
+/.idea/.gitignore
+/.idea/egui-data-table.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
